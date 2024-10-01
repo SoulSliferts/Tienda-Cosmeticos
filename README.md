@@ -8,3 +8,4 @@ Este repositorio contiene el diseño de una tienda online de cosméticos. El obj
 ![Vista previa del catalogo](Catalogo.png)
 
 # Producto Visual
+![Vista previa de producto](visual.png)
