@@ -5,6 +5,11 @@ Este repositorio contiene el diseño de una tienda online de cosméticos. El obj
 
 **URL Prototipo:** https://www.figma.com/proto/7Z5u995GEryVirZhm4SMny/Dise%C3%B1o-E-Comerce-Cosmeticos?node-id=66-1480&t=Z1jCatD2XEgph196-1
 
+# Herramientas
+- **Diseño:** Figma
+- **Iconos:** Pixabay, Flaticon, Icons8
+- **Imaganes:** Freepik
+
 # Pagina Principal
 ![Vista previa del diseño](Pagina-Principal.png)
 
